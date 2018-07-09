@@ -1,7 +1,7 @@
 # distributedcache_process1
 This represents one cache node instance of distributed cache system. It uses a package distributedcache which has core logic of caching system. Check readme file of it.
 
-Intall STS (Spring Tool Suite) to work on it.
+Intall eclipse to work on it (if not).
 
 To start cache instance
 1. checkout distributedcache package (if not) and build it using maven build tool.
